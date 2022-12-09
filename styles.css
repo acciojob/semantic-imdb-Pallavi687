@@ -1,2 +1,22 @@
+header {
+    background-color: rgb(226, 80, 43);
+    text-justify: auto;
+    text-align: center;
+}
+body{
+    background-color: rgb(156, 228, 63);
+    text-justify: distribute-all-lines;
+}
+nav{
+    font-size: x-large;
+    color: rgb(202, 233, 91);
+}
+p{
+    color: black;
 
-/* Your CSS Code here. */
+}
+ul{
+    color: rgb(196, 18, 86);
+}
+
+/* Your CSS Code here. */           
